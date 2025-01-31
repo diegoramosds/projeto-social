@@ -2,8 +2,15 @@
 
 ![PROJETO-SOCIAL](https://github.com/diegoramosds/projeto-social/assets/140274064/29f25155-0b33-4ea5-8896-3427b7c3ebdc)
 
--Projeto criado com objetivo de simular uma tela de um aparelho móvel, com funcionalidades de clique.
 
+## 💻 Sobre o projeto 
+
+- Projeto criado com objetivo de simular uma tela de um aparelho móvel, com funcionalidades de clique.
+
+- Tecnologias utilizadas: <br>
+  - Html <br>
+  - css <br>
+  - JavaScript
 
 ## 🚀 Rodando projeto-social
 
