@@ -8,9 +8,9 @@
 - Projeto criado com objetivo de simular uma tela de um aparelho móvel, com funcionalidades de clique e redirecionamento.
 
 ## 🚀 Tecnologias utilizadas: <br>
-  - ✔️ Html <br>
-  - ✔️ css <br>
-  - ✔️ JavaScript
+- ✔️ **Html**
+- ✔️ **css** 
+- ✔️ **JavaScript**
 
 
 ## ✨ Destaques
