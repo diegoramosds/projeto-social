@@ -8,15 +8,17 @@
 - Projeto criado com objetivo de simular uma tela de um aparelho móvel, com funcionalidades de clique e redirecionamento.
 
 ## 🚀 Tecnologias utilizadas: <br>
-  - Html <br>
-  - css <br>
-  - JavaScript
+  - ✔️ Html <br>
+  - ✔️ css <br>
+  - ✔️ JavaScript
 
 
 ## ✨ Destaques
-  - Layout responsivo <br>
-  - Efeitos visuais  <br>
-  - Design inspirado em dispositivos móveis 
+**📱 Layout Responsivo** – adaptável a diferentes dispositivos e tamanhos de tela.
+
+**🎨 Efeitos Visuais** – animações e transições para uma experiência mais dinâmica.
+
+**📲 Design Inspirado em Dispositivos Móveis** – interface moderna e otimizada para smartphones.
 
 
 ## 🚀 Como rodar o projeto
